@@ -1,4 +1,3 @@
-# this function will encrypt data...
 def encrypt(text, key):
     result = ""
     for i in range(len(text)):
