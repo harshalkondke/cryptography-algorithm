@@ -1,3 +1,4 @@
+# added comment
 def encrypt(text, key):
     result = ""
     for i in range(len(text)):
